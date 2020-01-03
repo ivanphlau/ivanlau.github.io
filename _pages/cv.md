@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Click [here](https://github.com/ivanphlau/ivanphlau.github.io/raw/master/CV.pdf)  for a PDF of my CV. (Last updated: October 24, 2019)
+Click [here](http://academicpages.github.io/files/paper2.pdf)  for a PDF of my CV. (Last updated: October 24, 2019)
 
