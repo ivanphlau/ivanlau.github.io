@@ -5,5 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-My CV is available in [here](_cv/cv.pdf) form. (Last updated: October 24, 2019)
+Click [here](_cv/cv.pdf)  for a PDF of my CV. (Last updated: October 24, 2019)
 
