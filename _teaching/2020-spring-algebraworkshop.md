@@ -2,7 +2,7 @@
 title: "Algebra Workshop Tutor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/202020-spring-algebraworkshop
+permalink: /teaching/2020-spring-algebraworkshop
 venue: "Spring 2020"
 ---
 
