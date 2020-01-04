@@ -2,7 +2,7 @@
 title: "Algebra Workshop Tutor"
 collection: teaching
 type: "Undergraduate course"
-permalink: "https://www.sfu.ca/math/undergraduate/current-students/workshops.html"
+permalink: /teaching/202020-spring-algebraworkshop
 venue: "Spring 2020"
 ---
 
