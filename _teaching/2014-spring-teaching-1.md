@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Algebra Workshop Tutor"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: "http://www.sfu.ca/outlines.html?2020/spring/macm/203/d100"
 venue: "University 1, Department"
-date: 2014-01-01
+date: Spring 2020
 location: "City, Country"
 ---
 
