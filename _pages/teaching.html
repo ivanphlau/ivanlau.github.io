@@ -5,15 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;">
-  
-{% endif %}
-
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-teaching.html %}
 {% endfor %}
 
 
