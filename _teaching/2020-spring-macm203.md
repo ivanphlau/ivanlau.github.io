@@ -2,9 +2,9 @@
 title: "MACM 203 Computing with Linear Algebra"
 collection: teaching
 permalink: /teaching/2020-spring-macm203
-venue: "Simon Fraser University, Mathematics and Computing Science"
+department: "Mathematics and Computing Science"
+university: "Simon Fraser University"
 semester: Spring 2020
-location: "Burnaby, BC"
 ---
 
 I was the TA for this course. The instructor of this course is [Petr Lisonek](http://www.cecm.sfu.ca/~plisonek/). 
