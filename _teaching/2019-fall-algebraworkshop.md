@@ -9,7 +9,7 @@ excerpt: "Algebra Workshop is designed for the students in
 [MATH 232](http://www.sfu.ca/outlines.html?2019/fall/math/232/d100),
 [MATH 240](http://www.sfu.ca/outlines.html?2019/fall/math/240/d100)
 and 
-[MACM 201](http://www.sfu.ca/outlines.html?2019/fall/macm/201/d100),
+[MACM 201](http://www.sfu.ca/outlines.html?2019/fall/macm/201/d100)
 to drop in casually to discuss course material with instructors, coordinators, and teaching assistants, or get help with assignments, studying, and exam prep"
 ---
 
