@@ -35,8 +35,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.semester %}<p class="archive__item-excerpt" itemprop="description">{{post.semester}} {% endif %}
-    {% if post.university %}<p class="archive__item-excerpt" itemprop="description">{{post.department}}, {{ post.university }} {% endif %}
+    {% if post.semester %}<p class="archive__item-excerpt" itemprop="description">{{post.semester}} , {{ post.university }}  {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
