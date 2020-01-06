@@ -3,7 +3,7 @@ title: "MACM 203 Computing with Linear Algebra"
 collection: teaching
 permalink: /teaching/2020-spring-macm203
 venue: "Simon Fraser University, Mathematics and Computing Science"
-date: Spring 2020
+semester: Spring 2020
 location: "Burnaby, BC"
 ---
 
