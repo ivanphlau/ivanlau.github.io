@@ -14,7 +14,7 @@ to drop in casually to discuss course material with instructors, coordinators, a
 
 I am one of the TAs of the Algebra Workshop. 
 In addition to hosting drop-in labs for students to get help with assignments, studying, and exam prep, 
-my responsibilities include invigilating weekly quizzes, midterms and final exams
+my other responsibilities include invigilating weekly quizzes, midterms and final exams
 as well as grading weekly quizzes, midterms and final exams.
 The coordinator of Algebra Workshop is [Justin Gray](https://www.sfu.ca/math/department/faculty/gray--justin.html). 
 More information about Algebra Workshop and other Math Workshops can be found [here](https://www.sfu.ca/math/undergraduate/current-students/workshops.html).
