@@ -1,17 +1,13 @@
 ---
 title: "Algebra Workshop Tutor"
 collection: teaching
-type: "Spring 2020"
+university: "Simon Fraser University"
+semester: Spring 2020
 permalink: /teaching/2020-spring-algebraworkshop
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am one of the TAs of the Algebra Workshop. 
+The coordinator of Algebra Workshop is [Justin Gray](https://www.sfu.ca/math/department/faculty/gray--justin.html. 
 
-Heading 1
-======
+More information about Algebra Workshop and other Math Workshops can be found [here](https://www.sfu.ca/math/undergraduate/current-students/workshops.html).
 
-Heading 2
-======
-
-Heading 3
-======
