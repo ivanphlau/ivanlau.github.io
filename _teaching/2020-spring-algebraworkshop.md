@@ -1,5 +1,5 @@
 ---
-title: "Algebra Workshop Tutor"
+title: "Algebra Workshop"
 collection: teaching
 university: "Simon Fraser University"
 semester: Spring 2020
