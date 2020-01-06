@@ -23,7 +23,7 @@
     </h2>
     
     
-    {% if post.semester %} {{post.semester}}, {{post.university}}  {% endif %}
+    {% if post.when %} {{post.when}}, {{post.journal}}  {% endif %}
     {% if post.abstract %}<p class="archive__item-excerpt" itemprop="description">{{ post.abstract | markdownify }}</p>{% endif %}
   </article>
 </div>
