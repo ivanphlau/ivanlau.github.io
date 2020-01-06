@@ -7,7 +7,7 @@ permalink: /teaching/2020-spring-algebraworkshop
 ---
 
 I am one of the TAs of the Algebra Workshop. 
-The coordinator of Algebra Workshop is [Justin Gray](https://www.sfu.ca/math/department/faculty/gray--justin.html. 
+The coordinator of Algebra Workshop is [Justin Gray](https://www.sfu.ca/math/department/faculty/gray--justin.html). 
 
 More information about Algebra Workshop and other Math Workshops can be found [here](https://www.sfu.ca/math/undergraduate/current-students/workshops.html).
 
