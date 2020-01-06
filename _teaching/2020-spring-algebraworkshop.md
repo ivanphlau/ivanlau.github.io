@@ -4,8 +4,7 @@ collection: teaching
 university: "Simon Fraser University"
 semester: Spring 2020
 permalink: /teaching/2020-spring-algebraworkshop
-excerpt: 
-"Algebra Workshop is designed for the students in 
+excerpt: "Algebra Workshop is designed for the students in 
 [MATH 100](http://www.sfu.ca/outlines.html?2020/spring/math/100/d100),
 [MATH 232](http://www.sfu.ca/outlines.html?2020/spring/math/232/d100),
 [MATH 240](http://www.sfu.ca/outlines.html?2020/spring/math/240/d100),
