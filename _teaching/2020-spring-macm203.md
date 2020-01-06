@@ -4,6 +4,7 @@ collection: teaching
 permalink: /teaching/2020-spring-macm203
 university: "Simon Fraser University"
 semester: "Spring 2020"
+excerpt: "Fun course!"
 ---
 
 I was the TA for this course. The instructor of this course is [Petr Lisonek](http://www.cecm.sfu.ca/~plisonek/). 
