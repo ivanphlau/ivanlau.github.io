@@ -4,9 +4,7 @@ collection: teaching
 university: "University of Edinburgh"
 semester: Spring 2019
 permalink: /teaching/2019-spring-INFR08009
-excerpt: "This course provides a formal and practical introduction to the algorithms and data structures 
-as well as machine learning.
-"
+excerpt: "This course presents key symbolic and numerical data structures and algorithms for manipulating them. Introductory numerical and symbolic learning methods provide a context for the algorithms and data structures. To make the presented ideas concrete, the module will extend the student's skills in Java and Matlab. Examples will be taken from all areas of Informatics."
 ---
 
 I hosted two of the tutorial groups, each around 10 students.
