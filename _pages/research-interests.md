@@ -12,4 +12,4 @@ redirect_from:
 My interests lie broadly in information, computation and optimization
 as well as their interactions with other fields and real-world applications
 such as communication, cryptography, and signal processing.
-I am currently working on Quantum Information. 
+I am currently focusing on the mathematical theory of quantum information.
