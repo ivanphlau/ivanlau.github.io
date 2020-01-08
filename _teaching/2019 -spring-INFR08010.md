@@ -13,10 +13,10 @@ instructors would like to impart in a course.
 Students do some preparation for the tutorials, usually working on some (non-assessed) problems. 
 In the tutorials, the students present and discuss their ideas or/and receive feedback.
 
-The instructors of this course for Spring 2019 are
+The instructors of this course for Spring 2019 were
 [Vaishak Belle](https://vaishakbelle.com/) and 
 [Alex Lascarides](http://homepages.inf.ed.ac.uk/alex/).
-The instructors of this course for Spring 2018 are
+The instructors of this course for Spring 2018 were
 [Stefano Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/) and 
 [Alex Lascarides](http://homepages.inf.ed.ac.uk/alex/).
 More information about this course can be found [here](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr08010.htm).
