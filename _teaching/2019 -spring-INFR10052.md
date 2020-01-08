@@ -18,5 +18,5 @@ Students do some preparation for the tutorials, usually working on some (non-ass
 In the tutorials, the students present and discuss their ideas or/and receive feedback.
 
 The instructors of this course is 
-[Vaishak Belle](https://homepages.inf.ed.ac.uk/rmayr/).
+[Richard Mayr](https://homepages.inf.ed.ac.uk/rmayr/).
 More information about this course can be found [here](http://www.drps.ed.ac.uk/18-19/dpt/cxinfr10052.htm).
