@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Click [here](http://ivanphlau.github.io/CV.pdf){:target="_blank"}  for a PDF of my CV. (Last updated: October 24, 2019)
+Click [here](http://ivanphlau.github.io/CV.pdf){:target="_blank"}  for a PDF of my CV. (Last updated: Jan 08, 2020)
 
