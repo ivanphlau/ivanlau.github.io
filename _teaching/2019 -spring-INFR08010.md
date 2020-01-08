@@ -4,12 +4,7 @@ collection: teaching
 university: "University of Edinburgh"
 semester: Spring 2019
 permalink: /teaching/2019-spring-INFR08010
-excerpt: "	This course focuses on approaches relating to representation, reasoning and planning for solving real world inference. 
-The course illustrates the importance of (i) using a smart representation of knowledge such that it is conducive to efficient reasoning,
-and (ii) the need for exploiting task constraints for intelligent search and planning. The notion of representing action, space and time
-is formalized in the context of agents capable of sensing the environment and taking actions that affect the current state. 
-There is also a strong emphasis on the ability to deal with uncertain data in real world scenarios 
-and hence, the planning and reasoning methods are extended to include inference in probabilistic domains."
+excerpt: "This course focuses on approaches relating to representation, reasoning and planning for solving real world inference. The course illustrates the importance of (i) using a smart representation of knowledge such that it is conducive to efficient reasoning, and (ii) the need for exploiting task constraints for intelligent search and planning. The notion of representing action, space and time is formalized in the context of agents capable of sensing the environment and taking actions that affect the current state. There is also a strong emphasis on the ability to deal with uncertain data in real world scenarios and hence, the planning and reasoning methods are extended to include inference in probabilistic domains."
 ---
 
 I hosted three of the tutorial groups, each around 10 students.
