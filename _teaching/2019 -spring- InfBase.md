@@ -2,7 +2,7 @@
 title: "InfBase"
 collection: teaching
 university: "University of Edinburgh"
-semester: Spring 2019
+semester: Spring 2019, Fall 2018
 permalink: /teaching/2019-spring-InfBase
 excerpt: "InfBase is a drop-in helpdesk for Informatics Year 1 and Year 2 students to get additional tutoring and support with their courses."
 ---
