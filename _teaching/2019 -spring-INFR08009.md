@@ -13,7 +13,7 @@ instructors would like to impart in a course.
 Students do some preparation for the tutorials, usually working on some (non-assessed) problems. 
 In the tutorials, the students present and discuss their ideas or/and receive feedback.
 
-The instructors of this course is 
+The instructors of this course were 
 [Kyriakos Kalorkoti](https://www.inf.ed.ac.uk/people/staff/Kyriakos_Kalorkoti.html) (for algorithms and data structures)
 and 
 [Hiroshi Shimodaira](http://homepages.inf.ed.ac.uk/hshimoda/) (for machine learning).
