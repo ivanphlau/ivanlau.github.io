@@ -15,6 +15,6 @@ In the tutorials, the students present and discuss their ideas or/and receive fe
 
 The instructors of this course is 
 [Stefano Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/) and 
-[Alex Lascarides](http://homepages.inf.ed.ac.uk/hshimoda/).
+[Alex Lascarides](http://homepages.inf.ed.ac.uk/alex/).
 More information about this course can be found [here](http://www.drps.ed.ac.uk/17-18/dpt/cxinfr08010.htm).
 
