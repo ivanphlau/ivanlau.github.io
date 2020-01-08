@@ -20,7 +20,7 @@ I was one of the lab demonstrators.
 During the lab sessions, the students learned NumPy and used them to employ pre-existing modeling tools
 as well as building (simple) cognitive models.
 
-The instructors of this course was
+The instructors of this course were
 [Richard Shillcock](https://sites.google.com/site/rcspplsinf/home) and 
 [Chris Lucas](http://homepages.inf.ed.ac.uk/clucas2/). 
 More information about this course can be found [here](http://www-test.drps.ed.ac.uk/17-18/dpt/cxinfr08020.htm).
