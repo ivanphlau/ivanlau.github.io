@@ -9,5 +9,5 @@ excerpt: "InfBase is a drop-in helpdesk for Informatics Year 1 and Year 2 studen
 
 I was one of the tutors of InfBase. I hosted two sessions per week.
 The coordinator of InfBase for Spring 2019 and Fall 2018 was [Benjamin Bach](https://sites.google.com/view/benjbach/home)
-and the coordinator for Spring 2018 and Fall 2017 [Chris Lucas](http://homepages.inf.ed.ac.uk/clucas2/). 
+and the coordinator for Spring 2018 and Fall 2017 was [Chris Lucas](http://homepages.inf.ed.ac.uk/clucas2/). 
 More information about InfBase can be found [here](https://informaticsstudentsupport.wordpress.com/).
