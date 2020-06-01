@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Click [here](/files/CV.pdf){:target="_blank"}  for a PDF of my CV. (Last updated: Jan 08, 2020)
+Click [here](/files/CV.pdf){:target="_blank"}  for a PDF of my CV. (Last updated: May 1, 2020)
 
